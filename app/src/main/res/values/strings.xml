@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">ListViewDemo</string>
+    <string-array name="countryName">
+
+        <item>bangladesh</item>
+        <item>india</item>
+        <item>pakistan</item>
+
+
+    </string-array>
+
+    <string name="bangladesh">
+
+        bangladesh is a small counry
+        sdfsdjfskjdf\n
+        sldkfsdkf\n
+        asdfksdfj\n
+        asdfkldsjf\n
+        sdlkfj;sal\n
+        asfklsjf\n
+        afdl;\n
+        sdfsdjfskjdf\n
+        sldkfsdkf\n
+        asdfksdfj\n
+        asdfkldsjf\n
+        sdlkfj;sal\n
+        asfklsjf\n
+        afdl;\n
+
+    </string> <string name="india">
+
+        india is a small counry
+    jfdslkjflkasdkdjs;
+    lsdkfslkdjfslkj skfslkj sfjs
+     sjfskajf
+    sdf s f
+    sdfsdjfskjdf\n
+        sldkfsdkf\n
+        asdfksdfj\n
+        asdfkldsjf\n
+        sdlkfj;sal\n
+        asfklsjf\n
+        afdl;\n
+    sdfsdjfskjdf\n
+        sldkfsdkf\n
+        asdfksdfj\n
+        asdfkldsjf\n
+        sdlkfj;sal\n
+        asfklsjf\n
+        afdl;\n
+
+    </string> <string name="pakistan">
+
+        pakistan is a small counry
+    sd fkldjeiwowuo
+    sdfjsadjfsjk as
+    fsfs fsoeioajdfslk
+    dslfjsdjf
+    sldkfsf
+    sdflkfa
+    lsdfjlsf
+    aflkdf
+    sdfsdjfskjdf\n
+        sldkfsdkf\n
+        asdfksdfj\n
+        asdfkldsjf\n
+        sdlkfj;sal\n
+        asfklsjf\n
+        afdl;\n
+    sdfsdjfskjdf\n
+        sldkfsdkf\n
+        asdfksdfj\n
+        asdfkldsjf\n
+        sdlkfj;sal\n
+        asfklsjf\n
+        afdl;\n
+
+    </string>
+
+</resources>
